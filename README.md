@@ -19,3 +19,9 @@
 *0406TIL* - swea문제풀이
 
 *0407TIL* - swea문제풀이
+
+
+
+<Django>
+
+*0408TIL* - Django(CRUD 사용 및 ModelForm 활용)
