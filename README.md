@@ -22,6 +22,8 @@
 
 
 
-<Django>
+< Django >
 
 *0408TIL* - Django(CRUD 사용 및 ModelForm 활용)
+
+0411TIL - Django(accounts 어플리케이션 등록)
