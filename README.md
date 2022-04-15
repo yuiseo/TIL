@@ -33,3 +33,5 @@
 *0411TIL* - Django(accounts 어플리케이션 등록)
 
 *0413TIL* - Django & DB (comments)
+
+*0415TIL* - Django CRUD 구현과 GIT을 통한 협업을 통해 느낀 점
