@@ -37,3 +37,5 @@
 *0415TIL* - Django CRUD 구현과 GIT을 통한 협업을 통해 느낀 점
 
 *0418TIL* - Django & DB 1:N Model Relationship을 이용한 todo app만들고 배운 점
+
+*0419TIL* - Django & DB Model Relationship을 이용한 좋아요 수 출력 오류
