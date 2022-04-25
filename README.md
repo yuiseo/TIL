@@ -45,3 +45,9 @@
 *0421TIL* - Django REST Framework 배운내용을 중심으로 실습하면서 느낀점
 
 *0422TIL* - Django REST Framework REST API와 M:N
+
+
+
+< JavaScript >
+
+*0425TIL* - JavaScript 기초
