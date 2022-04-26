@@ -51,3 +51,5 @@
 < JavaScript >
 
 *0425TIL* - JavaScript 기초
+
+*0426TIL* - JavaScript 기초 내용 전체 정리
