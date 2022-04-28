@@ -55,3 +55,5 @@
 *0426TIL* - JavaScript 기초 내용 전체 정리
 
 *0427TIL* - JavaScript
+
+*0428TIL* - JavaScript DOM조작 중 setAttribute()와 classList 차이
