@@ -57,3 +57,5 @@
 *0427TIL* - JavaScript
 
 *0428TIL* - JavaScript DOM조작 중 setAttribute()와 classList 차이
+
+*0502TIL* - JavaScript 동기와 비동기의 차이
