@@ -65,3 +65,7 @@
 < Vue >
 
 *0509TIL* - Vue와 Node.js를 이용한 페이지 만들기를 하고 배운점 
+
+*0510TIL* - Vue를 이용한 로또 추첨 동적 router오류에 대한 고찰 및 수정
+
+*0511TIL* - Vuex를 사용하는 이유, 장단점. Vuex를 사용하여 Todo App 만들기
