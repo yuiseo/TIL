@@ -69,3 +69,5 @@
 *0510TIL* - Vue를 이용한 로또 추첨 동적 router오류에 대한 고찰 및 수정
 
 *0511TIL* - Vuex를 사용하는 이유, 장단점. Vuex를 사용하여 Todo App 만들기
+
+*0512TIL* - Vuex를 사용해 TodoApp 다시 구현하기
